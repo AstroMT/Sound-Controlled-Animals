@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Crushed&family=Fondamento&family=Original+Surfer&family=Redressed&family=Syncopate&display=swap');
+
+body {
+    background: linear-gradient(135deg, #E8E9F3, #CDE7F3, #B1E5F2, #779BBF, #5A76A6, #3D518C, #233366, #091540);
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.header_div {
+    width: 100%;
+    background-color: #929292;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+.start_btn {
+    font-family: 'Fondamento', cursive;
+    background-color: #7aabd6;
+    color: #e3e3e3;
+    border-color: #1e3673;
+    border-radius: 10px;
+    transition-duration: 0.5s;
+    padding: 20px 25px;
+    font-size: 17.5px;
+}
+
+.start_btn:active {
+    background-color: #bfdfff;
+    color: #666878;
+    transform: translateY(5px);
+}
+
+.copyright_footer {
+    font-family: 'Syncopate', sans-serif;
+    width: 100%;
+    font-size: 20px;
+    background-color: #b9b9b9;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-top: 25px;
+}
+
+#title {
+    font-family: 'Original Surfer', cursive;
+    margin-bottom: 12.5px;
+}
+
+#header_desc {
+    font-family: 'Crushed', cursive;
+    font-size: 20px;
+}
+
+.red {
+    font-family: 'Redressed', cursive;
+}
