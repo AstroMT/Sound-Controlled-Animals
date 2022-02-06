@@ -32,6 +32,7 @@ body {
 }
 
 .copyright_footer {
+    text-shadow: 2px 2px #7e7e7e;
     font-family: 'Syncopate', sans-serif;
     width: 100%;
     font-size: 20px;
